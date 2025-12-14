@@ -6,5 +6,6 @@
         <li><a href="constructor_property_promotion.php">Constructor Property Promotion</a></li>
         <li><a href="union_types.php">Union types</a></li>
         <li><a href="intersaction_types.php">Intersaction types</a></li>
+        <li><a href="php8_functions.php">PHP 8 Functions</a></li>
     </ul>
 </div>
