@@ -18,7 +18,7 @@ class Example
 
     public function __construct()
     {
-        echo $this->getExample();
+        echo self::EXAMPLE;
     }
 }
 
