@@ -12,5 +12,6 @@
         <li><a href="constants_in_traits.php">Constants in Traits</a></li>
         <li><a href="enums.php">Enums</a></li>
         <li><a href="readonly_prop_class.php">Enums</a></li>
+        <li><a href="fibers.php">Fibers</a></li>
     </ul>
 </div>
