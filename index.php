@@ -5,5 +5,6 @@
         <li><a href="nullsafe_operator.php">Null safe operators</a></li>
         <li><a href="constructor_property_promotion.php">Constructor Property Promotion</a></li>
         <li><a href="union_types.php">Union types</a></li>
+        <li><a href="intersaction_types.php">Intersaction types</a></li>
     </ul>
 </div>
