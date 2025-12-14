@@ -9,5 +9,6 @@
         <li><a href="php8_functions.php">PHP 8 Functions</a></li>
         <li><a href="weak_map.php">Weak Map</a></li>
         <li><a href="php_attributes.php">PHP Attributes</a></li>
+        <li><a href="constants_in_traits.php">Constants in Traits</a></li>
     </ul>
 </div>
