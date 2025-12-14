@@ -13,3 +13,14 @@ function person(String $name, String $lastName, int $age, ?String $address = nul
 }
 
 person(name: "Pietro", lastName: "Campiotti", age: 28, bio: 'My bio');
+
+//With class
+
+class A
+{
+    public function __construct($name, $age)
+    {
+        echo "<br>Hello $name. You are $age years old";
+    }
+}
+new A(age: 28, name: "Pietro");
