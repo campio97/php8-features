@@ -10,3 +10,6 @@ readonly class User
         public readonly string $email
     ) {}
 }
+
+$user = new User(name: "Pietro", email: "");
+$user->name = "Piero";
