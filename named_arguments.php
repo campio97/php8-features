@@ -12,4 +12,4 @@ function person(String $name, String $lastName, int $age, ?String $address = nul
     }
 }
 
-person(name: "Pietro", lastName: "Campiotti", age: 28);
+person(name: "Pietro", lastName: "Campiotti", age: 28, bio: 'My bio');
