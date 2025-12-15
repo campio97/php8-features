@@ -16,5 +16,6 @@
         <li><a href="closures.php">Closures</a></li>
         <li><a href="clousersSimulationRoutingMiddleware.php">Clousers Simulation of Routing and Middleware</a></li>
         <li><a href="laravel_facade.php">Laravel Facade</a></li>
+        <li><a href="dependency_injection.php">Dependency Injection</a></li>
     </ul>
 </div>
