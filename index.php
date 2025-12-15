@@ -15,5 +15,6 @@
         <li><a href="fibers.php">Fibers</a></li>
         <li><a href="closures.php">Closures</a></li>
         <li><a href="clousersSimulationRoutingMiddleware.php">Clousers Simulation of Routing and Middleware</a></li>
+        <li><a href="laravel_facade.php">Laravel Facade</a></li>
     </ul>
 </div>
