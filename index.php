@@ -21,5 +21,6 @@
         <li><a href="dependency_injection.php">Dependency Injection</a></li>
         <li><a href="laravel_interfaces.php">Laravel interfaces</a></li>
         <li><a href="magic_methods.php">Magic Methods</a></li>
+        <li><a href="function_composition.php">Function Composition</a></li>
     </ul>
 </div>
