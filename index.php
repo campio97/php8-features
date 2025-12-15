@@ -16,6 +16,8 @@
         <li><a href="fibers.php">Fibers</a></li>
         <li><a href="closures.php">Closures</a></li>
         <li><a href="clousersSimulationRoutingMiddleware.php">Clousers Simulation of Routing and Middleware</a></li>
+        <h1>PHP8.4</h1>
+        <li><a href="lazy_inizialization.php">Lazy inizialization</a></li>
         <h1>Laravel backend</h1>
         <li><a href="laravel_facade.php">Laravel Facade</a></li>
         <li><a href="dependency_injection.php">Dependency Injection</a></li>
